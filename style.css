@@ -1,0 +1,84 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+
+.carousel-inner {
+    width: 800px;
+    margin: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+
+.img-fluid {
+    mix-width: 100%;
+    height: auto;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.navbar-nav .nav-link {
+    color: #343a40;
+}
+
+.navbar-nav .nav-link.btn {
+    margin-left: 10px;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: #343a40;
+}
+
+.embed-responsive {
+    border-radius: 10px;
+}
+
+.mt-40 {
+    background-color: aqua;
+}
+.containerl{
+    background-color: aqua;
+    
+}
+.custom-button {
+    border: 1px solid #ced4da;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+            color: #3bc30e;
+            display: inline-block;
+            text-align: center;
+            width: 50px;
+}
